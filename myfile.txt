@@ -1,2 +1,4 @@
 this is my first line in git tracked file
 second line
+Agenda today:
+1 collaborating with Github (cloud based source code hosting)
